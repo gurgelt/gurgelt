@@ -1,6 +1,6 @@
 ### Olá, eu sou o Paulo! 😉
 
-- 😢 Atualmente desempregado
+- 😔 Procurando Estágio...
 - 📕 Estudando Java, Python, HTML, CSS, JavaScript...
 - 📫 Contate-me no email: paulo.gtcanal@gmail.com
 
