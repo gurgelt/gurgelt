@@ -3,6 +3,7 @@
 - 😔 Procurando Estágio...
 - 📕 Estudando Java, Python, HTML, CSS, JavaScript...
 - 📫 Contate-me no email: paulo.gtcanal@gmail.com
+- 💙 LinkedIn: https://www.linkedin.com/in/paulo-tudini/
 
 <div>
   <a href="https://github.com/gurgelt">
