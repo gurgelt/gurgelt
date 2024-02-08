@@ -2,7 +2,7 @@
 
 - 😔 Procurando vaga para Analista Junior Front-End / Back-End / Python ...
 - 📕 Estudando Python, HTML, CSS, React, JavaScript...
-- 📫 Contate-me no email: paulo.gtcanal@gmail.com
+- 📫 Contate-me no email: paulogurgelt@gmail.com
 - 💙 LinkedIn: https://www.linkedin.com/in/paulo-tudini/
 
 <div>
