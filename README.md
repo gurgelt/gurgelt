@@ -1,4 +1,4 @@
-### Olá, eu sou o Paulo! 😉
+a### Olá, eu sou o Paulo! 😉
 
 - 😔 Analista de Dados Jr.
 - 📕 Estudando Ciência de Dados na FIAP - Python, SQL, Power BI, Excel, Estatística...
@@ -10,10 +10,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gurgelt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurgelt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
+
   
   ##
  
