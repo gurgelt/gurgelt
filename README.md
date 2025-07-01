@@ -1,4 +1,4 @@
-a### Olá, eu sou o Paulo! 😉
+### Olá, eu sou o Paulo! 😉
 
 - 😔 Analista de Dados Jr.
 - 📕 Estudando Ciência de Dados na FIAP - Python, SQL, Power BI, Excel, Estatística...
@@ -13,10 +13,11 @@ a### Olá, eu sou o Paulo! 😉
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg">
 </div>
+
 
   
   ##
