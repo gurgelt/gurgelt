@@ -1,10 +1,10 @@
 ### Olá, eu sou o Paulo! 😉
 
-- 😔 Analista de BI Jr.
+- 💻 Analista de BI Jr.
 - 📕 Estudando Ciência de Dados na FIAP - Python, SQL, Power BI, Excel, Estatística...
 - 📫 Contate-me no email: paulo.gtcanal@gmail.com
 - 💙 LinkedIn: https://www.linkedin.com/in/paulo-tudini/
-- 💻 Portfólio: https://portfolio-data-science-tau.vercel.app/
+- 👜 Portfólio: https://portfolio-data-science-tau.vercel.app/
 
 <div>
   <a href="https://github.com/gurgelt">
